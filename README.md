@@ -1,5 +1,3 @@
-# Enterprise-Identity-Management-with-Microsoft-Forefront-Identity-Management
-Enterprise Identity Management with Microsoft Forefront Identity Management [Video], published by Packt
 
 # Enterprise Identity Management with Microsoft Forefront Identity Management [Video]
 This is the code repository for [Enterprise Identity Management with Microsoft Forefront Identity Management [Video]](https:utm_campaign=9781789952469), published by [Packt](https://www.packtpub.com/application-development/enterprise-identity-management-microsoft-forefront-identity-management-video). It contains all the supporting project files necessary to work through the video course from start to finish.
