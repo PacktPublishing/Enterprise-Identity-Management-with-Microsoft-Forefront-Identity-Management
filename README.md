@@ -1,6 +1,6 @@
 
 # Enterprise Identity Management with Microsoft Forefront Identity Management [Video]
-This is the code repository for [Enterprise Identity Management with Microsoft Forefront Identity Management [Video]](https:utm_campaign=9781789952469), published by [Packt](https://www.packtpub.com/application-development/enterprise-identity-management-microsoft-forefront-identity-management-video). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Enterprise Identity Management with Microsoft Forefront Identity Management [Video]](https://www.packtpub.com/application-development/enterprise-identity-management-microsoft-forefront-identity-management-video), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Forefront Identity Manager is an Identity Management system, that helps you manage digital identities, enable restricted access permissions, provide self-service features, implement a complete IdM solution, and synchronize information between typical systems illustrated by an HR system and Active Directory.
 
