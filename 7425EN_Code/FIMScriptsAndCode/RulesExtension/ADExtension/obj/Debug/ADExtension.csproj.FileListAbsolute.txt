@@ -1,0 +1,6 @@
+C:\Users\kent\Downloads\ADExtension\obj\Debug\ADExtension.csprojResolveAssemblyReference.cache
+C:\Users\kent\Downloads\ADExtension\obj\Debug\ADExtension.dll
+C:\Users\kent\Downloads\ADExtension\obj\Debug\ADExtension.pdb
+C:\Users\kent\Downloads\ADExtension\bin\Debug\ADExtension.dll
+C:\Users\kent\Downloads\ADExtension\bin\Debug\ADExtension.pdb
+C:\Users\kent\Downloads\ADExtension\bin\Debug\Microsoft.MetadirectoryServicesEx.dll
